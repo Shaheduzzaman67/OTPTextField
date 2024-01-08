@@ -22,7 +22,7 @@ class OtpFieldStyle {
   OtpFieldStyle(
       {this.backgroundColor: Colors.transparent,
       this.borderColor: Colors.black26,
-      this.focusBorderColor: Colors.blue,
+      this.focusBorderColor: Colors.black,
       this.disabledBorderColor: Colors.grey,
       this.enabledBorderColor: Colors.black26,
       this.errorBorderColor: Colors.red});
